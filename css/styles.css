@@ -1,0 +1,98 @@
+body {
+  background-color: hsl(225, 100%, 94%);
+  text-align: center;
+  font-family: serif;
+
+  height: 100vh;
+}
+
+.MainDiv {
+  width: 18.5%;
+  background-color: white;
+  position: absolute;
+  margin-left: 780px;
+  margin-top: 210px;
+  border-radius: 20px;
+  height: 550px;
+}
+
+.MusicGuy {
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  width: 100%;
+}
+.smallPa{
+  width: 80%;
+  text-align:center;
+  position: relative;
+  left: 40px;
+
+
+}
+
+.AnnualPlan {
+  background-color: hsl(225, 100%, 98%);
+  border-radius: 20px;
+  width: 80%;
+  height: 80px;
+  margin-left: 30px;
+  margin-top: auto;
+  margin-bottom: auto;
+  text-align: left;
+}
+
+.MusicIcon {
+  float: left;
+  width: auto;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+.Annual {
+  position: relative;
+  left: 20px;
+  margin-right: 50px;
+  padding-top: 5px;
+  padding-right: 50px;
+  line-height: 0;
+}
+
+.anchor {
+  position: relative;
+  bottom: 20px;
+  right: 10px;
+  margin-left: 115%;
+  margin-bottom: 50px;
+  font-weight: bold;
+}
+
+.BottomPart {
+  position:relative;
+}
+
+.PaymentButton {
+  background-color: hsl(245, 75%, 52%);
+  font-weight: bold;
+  color: white;
+  position: relative;
+  top: 30px;
+  border-color: white;
+  left: 0px;
+  border-radius: 10px;
+  height: 40px;
+  width: 250px;
+  box-shadow: 4px 10px;
+}
+
+.CancelButton {
+  font-weight: bold;
+  position: relative;
+  color: hsl(224, 23%, 55%);
+  background-color: white;
+  right: 0px;
+  border-radius: 10px;
+  border: 2px solid white;
+  top: 40px;
+  height: 40px;
+  width: 250px;
+}
